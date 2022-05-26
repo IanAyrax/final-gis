@@ -25,22 +25,26 @@
 //     }
 // ]
    
-import imgHerndonStart from 'assets/images/herndon-start.jpg';
-import imgKentucky from 'assets/images/kentucky.jpg';
-import imgNashville from 'assets/images/nashville.jpg';
-import imgJackDaniels from 'assets/images/jack-daniels.jpg';
-import imgHuntsville from 'assets/images/huntsville.jpg';
-import imgLasVegas from 'assets/images/las-vegas.jpg';
-import imgAtlanta from 'assets/images/atlanta.jpg';
-import imgColumbia from 'assets/images/columbia.jpg';
-import imgSoutchOfTheBorder from 'assets/images/south-of-the-border.jpg';
-import imgHerndonEnd from 'assets/images/herndon-start.jpg';
+import imgScandinavia from 'assets/images/Scandinavia-Peninsula.jpg';
+import imgBaltic from 'assets/images/Baltic.jpg';
+import imgAmsterdam from 'assets/images/Amsterdam.jpg';
+import imgCuracao from 'assets/images/Curacao.jpg';
+import imgStabroek from 'assets/images/Stabroek.jpg';
+import imgLasTheDutchBrazil from 'assets/images/The-Dutch-Brazil.jpg';
+import imgCapeTown from 'assets/images/Cape-Town.jpg';
+import imgMaurutius from 'assets/images/Maurutius.jpg';
+import imgChinsurah from 'assets/images/Chinsurah.jpg';
+import imgMalacca from 'assets/images/Malacca.jpg';
+import imgBatavia from 'assets/images/Batavia.jpg';
+import imgMacau from 'assets/images/Macau.jpg';
+import imgManila from 'assets/images/Manila.jpg';
+import imgNagasaki from 'assets/images/Nagasaki.jpg';
 
 export const locations = [
   {
     placename: 'Scandinavian Peninsula, Norway',
     date: 'August 9, 2015',
-    // image: ,
+    // image: imgScandinavia,
     location: {
       lat: 61.862476,
       lng: 9.681024
@@ -52,7 +56,7 @@ export const locations = [
   {
     placename: 'Baltic, Finland',
     date: 'August 9, 2015',
-    // image: ,
+    // image: imgBaltic,
     location: {
       lat: 58.48795200000001,
       lng: 19.86328100000003
@@ -64,7 +68,7 @@ export const locations = [
   {
     placename: 'Amsterdam, Netherlands',
     date: 'August 9, 2015',
-    // image: ,
+    // image: imgAmsterdam,
     location: {
       lat: 52.377956,
       lng: 4.897070
@@ -76,7 +80,7 @@ export const locations = [
   {
     placename: 'Curacao, Venezuela',
     date: 'August 3, 2015',
-    // image: ,
+    // image: imgCuracao,
     location: {
       lat: 10.3833,
       lng: -71.3333
@@ -88,7 +92,7 @@ export const locations = [
   {
     placename: 'Stabroek, Georgetown, Guyana',
     date: 'August 2, 2015',
-    // image: ,
+    // image: imgStabroek,
     location: {
       lat: 	6.80779026829,
       lng: -58.1629685584
@@ -102,7 +106,7 @@ export const locations = [
   {
     placename: 'Dutch Brazil',
     date: 'August 1, 2015',
-    // image: ,
+    // image: imgTheDutchBrazil,
     location: {
       lat: -8.071743,
       lng: -34.880884
@@ -114,7 +118,7 @@ export const locations = [
   {
     placename: 'Cape town, South Africa',
     date: 'August 1, 2015',
-    // image: ,
+    // image: imgCapeTown,
     location: {
       lat: -33.918861,
       lng: 18.423300
@@ -126,7 +130,7 @@ export const locations = [
   {
     placename: 'Maurutius, South Africa',
     date: 'August 4, 2015',
-    // image: ,
+    // image: imgMaurutius,
     location: {
       lat: -20.348404,
       lng: 57.552152
@@ -139,7 +143,7 @@ export const locations = [
   {
     placename: 'Chinsurah, India',
     date: 'August 10, 2015',
-    // image: ,
+    // image: imgChinsurah,
     location: {
       lat: 22.891891,
       lng: 88.3967446
@@ -151,7 +155,7 @@ export const locations = [
   {
     placename: 'Malacca, Malaysia',
     date: 'August 5, 2015',
-    // image: ,
+    // image: imgMalacca,
     location: {
       lat: 2.200844,
       lng: 102.240143
@@ -163,9 +167,9 @@ export const locations = [
     ]
   },
   {
-    placename: 'Batavia, New York',
+    placename: 'Batavia, Indonesia',
     date: 'August 4, 2015',
-    // image: ,
+    // image: imgBatavia,
     location: {
       lat: -6.17511,
       lng: 106.86504
@@ -177,7 +181,7 @@ export const locations = [
   {
     placename: 'Macau, China',
     date: 'August 7, 2015',
-    // image: ,
+    // image: imgMacau,
     location: {
       lat: 22.210928,
       lng: 113.552971
@@ -190,7 +194,7 @@ export const locations = [
   {
     placename: 'Manila, Philippines',
     date: 'August 9, 2015',
-    // image: ,
+    // image: imgManila,
     location: {
       lat: 14.599512,
       lng: 120.984222
@@ -202,7 +206,7 @@ export const locations = [
   {
     placename: 'Nagasaki, Japan',
     date: 'August 8, 2015',
-    // image: ,
+    // image: imgNagasaki,
     location: {
       lat: 32.764233,
       lng: 129.872696
