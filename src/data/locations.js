@@ -50,7 +50,7 @@ export const locations = [
       lng: 9.681024
     },
     todo: [
-      'South of the Border 🧨'
+      'Scandinavian peninsula is one of the places in the norwegian country on the European continent, this peninsula faces the atlantic ocean. This place has many commodities that are produced and can be used, namely timber, tar, pitch, iron, copper, and fur.'
     ]
   },
   {
@@ -62,7 +62,7 @@ export const locations = [
       lng: 19.86328100000003
     },
     todo: [
-      'South of the Border 🧨'
+      'The Baltic is a place on the European continent. This place has several commodities that are produced and can be used, namely wheat and rye.'
     ]
   },
   {
@@ -74,7 +74,7 @@ export const locations = [
       lng: 4.897070
     },
     todo: [
-      'South of the Border 🧨'
+      'Amsterdam or often dubbed the land of windmills is also one of the places to visit, here there are commodities such as wool and horring that have high selling values that can be utilized.'
     ]
   },
   {
@@ -86,7 +86,7 @@ export const locations = [
       lng: -71.3333
     },
     todo: [
-      'Jack Daneils Distillery 🥃'
+      'Curacao is an area in Venezuela, on the American continent. Commodity that can be utilized from Curacao is tobacco.'
     ]
   },
   {
@@ -98,9 +98,7 @@ export const locations = [
       lng: -58.1629685584
     },
     todo: [
-      'Robert’s Western World Bar 🤠',
-      'Broadway Street 🎻',
-      'John Seigenthaler Pedestrian Bridge 🌉'
+      'Still on the American continent, there is the city of Starbucks in Guiana, Starbucks is famous as a producer of sugar so the Dutch visit it to be able to take advantage of its natural products.'
     ]
   },
   {
@@ -112,7 +110,7 @@ export const locations = [
       lng: -34.880884
     },
     todo: [
-      'Cumberland Gap 🌳'
+      'On the American continent, there is also the Dutch region of Brazil which is also a producer of sugar. this area also includes the under dutch control area'
     ]
   },
   {
@@ -124,7 +122,7 @@ export const locations = [
       lng: 18.423300
     },
     todo: [
-      'Where we start! 🚀'
+      'Cape Town is the legislative capital of South Africa and the capital of the Cape of Good Hope Province. This city is a large port on the edge of the Atlantic Ocean at the tip of the African continent. Capetown is a provisioning station.'
     ]
   },
   {
@@ -136,8 +134,7 @@ export const locations = [
       lng: 57.552152
     },
     todo: [
-      'Sleep 😴',
-      'US Space and Rocket Center 👨‍🚀'
+      'Mauritius is an island nation in the southwest of the Indian Ocean, about 900 km east of Madagascar. This country is still located on the African continent, more precisely, namely South Africa.'
     ]
   },
   {
@@ -149,7 +146,7 @@ export const locations = [
       lng: 88.3967446
     },
     todo: [
-      'Where we end! 📍'
+      'On the Asian continent there is a chinsurah. Chinsura is a city located in Hugli District in the state of West Bengal, India. India is a producer of several commodities such as cloves and cinnamon.'
     ]
   },
   {
@@ -161,9 +158,7 @@ export const locations = [
       lng: 102.240143
     },
     todo: [
-      'Casinos ♠♥♦♣',
-      'Walk the strip 💃',
-      'Fountain show ⛲'
+      'In southeast Asia, there is the City of Malacca, or also known as the historic Melaka Bandaraya, is the capital city of the state of Melaka in Malaysia. The location of Malacca is quite strategic because it is located on a trade route.'
     ]
   },
   {
@@ -175,7 +170,7 @@ export const locations = [
       lng: 106.86504
     },
     todo: [
-      'Flight ✈️'
+      'After Malacca, there is Indonesia. to be precise, the city of batavia. in Indonesia, dutch trade in spices. Indonesia is famous as a producer of many spices. some commodities produced in several places in Indonesia such as in Sumatra are pepper producers, Java produces tea and teak, Borneo has camphor, pepper, and sandalwood commodities, Sulawesi has spices-producing areas.'
     ]
   },
   {
@@ -187,8 +182,7 @@ export const locations = [
       lng: 113.552971
     },
     todo: [
-      'Friends 🍻',
-      'Georgia Aquarium 🐠'
+      'The city of Macao in China is also a place visited by the Dutch for trade. Macao is a city and special administrative region in the People"s Republic of China located in the western part of the Pearl River Delta which empties into the South China Sea. this city is a producer of tea, silk and porcelain.'
     ]
   },
   {
@@ -200,7 +194,7 @@ export const locations = [
       lng: 120.984222
     },
     todo: [
-      'South of the Border 🧨'
+      'Manila is the capital city of the Philippines. The city is located on the eastern shore of Manila Bay on the Philippines largest and northernmost island, Luzon. The Philippine Islands are located in the Pacific Ocean'
     ]
   },
   {
@@ -212,9 +206,7 @@ export const locations = [
       lng: 129.872696
     },
     todo: [
-      'Friends 🍻',
-      'Grill 🍖',
-      'Pool 🏊‍♂️'
+      'Nagasaki is the capital and largest city in Nagasaki Prefecture located on the southwest coast of Kyushu, Japan. Nagasaki was the center of European influence in medieval Japan. This area produces several commodities such as silk and luxury goods.'
     ]
   }
 ];
